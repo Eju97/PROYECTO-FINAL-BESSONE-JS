@@ -1,2 +1,3 @@
-# PROYECTO-FINAL-BESSONE-JS
-PROYECTO FINAL DE JAVASCRIPT
+Esta carpeta contiene el proyecto final de JavaScript
+PROYECTO-FINAL-BESSONE-JS
+
