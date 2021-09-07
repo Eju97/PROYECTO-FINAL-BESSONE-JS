@@ -1,2 +1,0 @@
-const medallones = [];
-const carrito = [];
