@@ -1,0 +1,6 @@
+[{"id":1,"nombre":"Pack de Garbanzo(4u)", "precio":200, "cantidad":1, "imagen":"Images/garbanzos.jpg"},
+{"id":2,"nombre":"Pack de Lenteja(4u)", "precio":205, "cantidad":1, "imagen":"Images/lentejas.jpg"},
+{"id":3,"nombre":"Pack de Arveja(4u)", "precio":195, "cantidad":1, "imagen":"Images/arvejas.jpg"},
+{"id":4,"nombre":"Pack de Poroto(4u)", "precio":210, "cantidad":1, "imagen":"Images/porotos.jpg"},
+{"id":5,"nombre":"Pack Degustacion(4u)", "precio":200, "cantidad":1, "imagen":"Images/degustacion.jpg"},
+{"id":6,"nombre":"Pack Stockeate(16u)", "precio":760, "cantidad":1, "imagen":"Images/stockeate.jpg"}]
